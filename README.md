@@ -1,0 +1,2 @@
+# LogiZim
+A Logic Simulator
